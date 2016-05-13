@@ -1,0 +1,71 @@
+{ "blips":
+    [
+        {
+            "title": "Code Reviews",
+            "area": "techniques",
+            "status": "standard",
+            "link": "https://www.atlassian.com/agile/code-reviews"
+        },
+        {
+            "title": "TDD",
+            "area": "techniques",
+            "status": "standard",
+            "link": "http://c2.com/cgi/wiki?TestDrivenDevelopment"
+        },
+        {
+            "title": "Tech Huddle",
+            "area": "techniques",
+            "status": "standard",
+            "link": "http://"
+        },
+        {
+            "title": "Continuous Integration",
+            "area": "techniques",
+            "status": "standard",
+            "link": "http://"
+        },
+
+        {
+            "title": "Continuous Delivery",
+            "area": "techniques",
+            "status": "standard",
+            "link": "http://"
+        },
+
+        {
+            "title": "Behavior-driven Development",
+            "area": "techniques",
+            "status": "future",
+            "link": "http://"
+        },
+
+        {
+            "title": "Immutable Infrastructure",
+            "area": "techniques",
+            "status": "future",
+            "link": "https://www.thoughtworks.com/insights/blog/rethinking-building-cloud-part-4-immutable-servers"
+        },
+        
+        {
+            "title": "A B Testing",
+            "area": "techniques",
+            "status": "future",
+            "link": "https://www.thoughtworks.com/insights/blog/rethinking-building-cloud-part-4-immutable-servers"
+        },
+
+        {
+            "title": "Gradle",
+            "area": "tools",
+            "status": "standard",
+            "link": "https://www.thoughtworks.com/insights/blog/rethinking-building-cloud-part-4-immutable-servers"
+        },
+
+        {
+            "title": "Build Reactor",
+            "area": "tools",
+            "status": "standard",
+            "link": "https://www.thoughtworks.com/insights/blog/rethinking-building-cloud-part-4-immutable-servers"
+        }
+
+    ]
+}

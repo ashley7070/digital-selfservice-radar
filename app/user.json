@@ -1,0 +1,10 @@
+{ "user":
+    [
+        {
+            "name": "Digital Self Service",
+            "email": "me@me.com",
+            "website": "http://me.me",
+            "background": "images/tiles.svg"
+        }
+    ]
+}
