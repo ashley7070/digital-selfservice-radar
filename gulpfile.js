@@ -1,6 +1,7 @@
 // generated on 2016-05-10 using generator-webapp 2.1.0
 const gulp = require('gulp');
 const gulpLoadPlugins = require('gulp-load-plugins');
+const deploy      = require('gulp-gh-pages');
 const browserSync = require('browser-sync');
 const del = require('del');
 const wiredep = require('wiredep').stream;
@@ -163,6 +164,12 @@ gulp.task('wiredep', () => {
       ignorePath: /^(\.\.\/)*\.\./
     }))
     .pipe(gulp.dest('app'));
+});
+
+
+//Push build to gh-pages
+gulp.task('deploy', ['build'], () => {
+  return gulp.src("./dist/**/*").pipe(deploy())
 });
 
 gulp.task('build', ['lint', 'html', 'images', 'fonts', 'extras'], () => {
