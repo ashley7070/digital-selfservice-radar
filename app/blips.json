@@ -65,7 +65,297 @@
             "area": "tools",
             "status": "standard",
             "link": "https://www.thoughtworks.com/insights/blog/rethinking-building-cloud-part-4-immutable-servers"
+        },
+        
+         {
+            "title": "Alfred (Jenkins)",
+            "area": "tools",
+            "status": "standard",
+            "link": "https://alfred.int.corp.sun/"
+        },
+        
+        {
+            "title": "Git",
+            "area": "tools",
+            "status": "standard",
+            "link": "https://git-scm.com/"
+        },
+        
+        {
+            "title": "Ansible",
+            "area": "tools",
+            "status": "standard",
+            "link": "https://www.ansible.com/"
+        },
+        
+        {
+            "title": "Protractor Cobertura",
+            "area": "tools",
+            "status": "standard",
+            "link": "http://www.protractortest.org/#/"
+        },
+        
+        {
+            "title": "Service Monitoring",
+            "area": "tools",
+            "status": "standard",
+            "link": "http://"
+        },
+        
+        {
+            "title": "Splunk",
+            "area": "tools",
+            "status": "future",
+            "link": "http://splunk/en-US/account/login?return_to=%2Fen-US%2F"
+        },
+        
+        {
+            "title": "Infrastructure Automation",
+            "area": "tools",
+            "status": "future",
+            "link": "http://"
+        },
+        
+        {
+            "title": "Puppet",
+            "area": "tools",
+            "status": "future",
+            "link": "https://puppet.com/product/how-it-works"
+        },
+        
+        {
+            "title": "Sumo Logic",
+            "area": "tools",
+            "status": "future",
+            "link": "https://www.sumologic.com/"
+        },
+        
+        {
+            "title": "Webstorm",
+            "area": "tools",
+            "status": "radar",
+            "link": "https://www.jetbrains.com/webstorm/"
+        },
+        
+        {
+            "title": "Chef Delivery",
+            "area": "tools",
+            "status": "radar",
+            "link": "https://www.chef.io/delivery/"
+        },
+        
+        {
+            "title": "OpenShift",
+            "area": "tools",
+            "status": "radar",
+            "link": "https://www.openshift.com/"
+        },
+        
+        {
+            "title": "Docker",
+            "area": "tools",
+            "status": "radar",
+            "link": "https://www.docker.com/"
+        },
+        
+        {
+            "title": "Oracle Access Management",
+            "area": "tools",
+            "status": "radar",
+            "link": "http://www.oracle.com/us/products/middleware/identity-management/access-management/overview/index.html"
+        },
+        
+        {
+            "title": "Quick Assist",
+            "area": "tools",
+            "status": "radar",
+            "link": "http://"
+        },
+        
+        {
+            "title": "New Relic",
+            "area": "tools",
+            "status": "radar",
+            "link": "https://newrelic.com/"
+        },
+        
+        {
+            "title": "Netflix Nebula",
+            "area": "tools",
+            "status": "radar",
+            "link": "https://nebula-plugins.github.io/"
+        },
+        
+        {
+            "title": "JRuby Test Framework",
+            "area": "tools",
+            "status": "radar",
+            "link": "http://"
+        },
+        
+        {
+            "title": "Service Discovery",
+            "area": "tools",
+            "status": "radar",
+            "link": "http://"
+        },
+        
+        {
+            "title": "Central Jenkins",
+            "area": "tools",
+            "status": "deprecate",
+            "link": "http://jenkins/hudson/"
+        },
+        
+        {
+            "title": "Maven",
+            "area": "tools",
+            "status": "deprecate",
+            "link": "https://maven.apache.org/"
+        },
+        
+        {
+            "title": "Deploy Site",
+            "area": "tools",
+            "status": "deprecate",
+            "link": "http://"
+        },
+        
+         {
+            "title": "Tableaux",
+            "area": "tools",
+            "status": "deprecate",
+            "link": "http://"
+        },
+        
+         {
+            "title": "Mule",
+            "area": "tools",
+            "status": "deprecate",
+            "link": "https://www.mulesoft.com/"
+        },
+        
+        {
+            "title": "ELK",
+            "area": "tools",
+            "status": "deprecate",
+            "link": "https://www.elastic.co/products"
+        },
+        
+        {
+            "title": "Gulp",
+            "area": "platforms",
+            "status": "standard",
+            "link": "http://gulpjs.com/"
+        },
+        
+        {
+            "title": "Cucumber",
+            "area": "platforms",
+            "status": "standard",
+            "link": "https://cucumber.io/"
+        },
+        
+        {
+            "title": "Java (version 8)",
+            "area": "platforms",
+            "status": "standard",
+            "link": "http://www.oracle.com/technetwork/java/index.html"
+        },
+        
+        {
+            "title": "Angular Javascript",
+            "area": "platforms",
+            "status": "standard",
+            "link": "https://angularjs.org/"
+        },
+        
+        {
+            "title": "JS ES6",
+            "area": "platforms",
+            "status": "standard",
+            "link": "http://es6-features.org/#Constants"
+        },
+        
+        {
+            "title": "Concordian",
+            "area": "platforms",
+            "status": "standard",
+            "link": "http://concordion.org/"
+        },
+        
+        {
+            "title": "Typescript",
+            "area": "platforms",
+            "status": "future",
+            "link": "https://www.typescriptlang.org/"
+        },
+        
+        {
+            "title": "Apache Camel",
+            "area": "platforms",
+            "status": "future",
+            "link": "http://camel.apache.org/"
+        },
+        
+        {
+            "title": "Spark",
+            "area": "platforms",
+            "status": "radar",
+            "link": "http://spark.apache.org/"
+        },
+        
+        {
+            "title": "Ruby",
+            "area": "platforms",
+            "status": "radar",
+            "link": "https://www.ruby-lang.org/en/"
+        },
+        
+        {
+            "title": "React Javascript",
+            "area": "platforms",
+            "status": "radar",
+            "link": "http://reactjs.net/"
+        },
+        
+        {
+            "title": "Scala",
+            "area": "platforms",
+            "status": "radar",
+            "link": "http://www.scala-lang.org/"
+        },
+        
+        {
+            "title": "Ruby on Rails",
+            "area": "platforms",
+            "status": "radar",
+            "link": "http://rubyonrails.org/"
+        },
+        
+         {
+            "title": "Node.js",
+            "area": "platforms",
+            "status": "radar",
+            "link": "https://nodejs.org/en/"
+        },
+        
+         {
+            "title": "RxJS",
+            "area": "platforms",
+            "status": "radar",
+            "link": "http://reactivex.io/"
+        },
+        
+        {
+            "title": "JSP",
+            "area": "platforms",
+            "status": "deprecate",
+            "link": "http://www.oracle.com/technetwork/java/javaee/jsp/index.html"
         }
+        
+        
+        
 
     ]
 }
