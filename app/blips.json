@@ -244,118 +244,199 @@
         
         {
             "title": "Gulp",
-            "area": "platforms",
+            "area": "frameworks",
             "status": "standard",
             "link": "http://gulpjs.com/"
         },
         
         {
             "title": "Cucumber",
-            "area": "platforms",
+            "area": "frameworks",
             "status": "standard",
             "link": "https://cucumber.io/"
         },
         
         {
             "title": "Java (version 8)",
-            "area": "platforms",
+            "area": "frameworks",
             "status": "standard",
             "link": "http://www.oracle.com/technetwork/java/index.html"
         },
         
         {
             "title": "Angular Javascript",
-            "area": "platforms",
+            "area": "frameworks",
             "status": "standard",
             "link": "https://angularjs.org/"
         },
         
         {
             "title": "JS ES6",
-            "area": "platforms",
+            "area": "frameworks",
             "status": "standard",
             "link": "http://es6-features.org/#Constants"
         },
         
         {
             "title": "Concordian",
-            "area": "platforms",
+            "area": "frameworks",
             "status": "standard",
             "link": "http://concordion.org/"
         },
         
         {
             "title": "Typescript",
-            "area": "platforms",
+            "area": "frameworks",
             "status": "future",
             "link": "https://www.typescriptlang.org/"
         },
         
         {
             "title": "Apache Camel",
-            "area": "platforms",
+            "area": "frameworks",
             "status": "future",
             "link": "http://camel.apache.org/"
         },
         
         {
             "title": "Spark",
-            "area": "platforms",
+            "area": "frameworks",
             "status": "radar",
             "link": "http://spark.apache.org/"
         },
         
         {
             "title": "Ruby",
-            "area": "platforms",
+            "area": "frameworks",
             "status": "radar",
             "link": "https://www.ruby-lang.org/en/"
         },
         
         {
             "title": "React Javascript",
-            "area": "platforms",
+            "area": "frameworks",
             "status": "radar",
             "link": "http://reactjs.net/"
         },
         
         {
             "title": "Scala",
-            "area": "platforms",
+            "area": "frameworks",
             "status": "radar",
             "link": "http://www.scala-lang.org/"
         },
         
         {
             "title": "Ruby on Rails",
-            "area": "platforms",
+            "area": "frameworks",
             "status": "radar",
             "link": "http://rubyonrails.org/"
         },
         
          {
             "title": "Node.js",
-            "area": "platforms",
+            "area": "frameworks",
             "status": "radar",
             "link": "https://nodejs.org/en/"
         },
         
          {
             "title": "RxJS",
-            "area": "platforms",
+            "area": "frameworks",
             "status": "radar",
             "link": "http://reactivex.io/"
         },
         
         {
             "title": "JSP",
-            "area": "platforms",
+            "area": "frameworks",
             "status": "deprecate",
             "link": "http://www.oracle.com/technetwork/java/javaee/jsp/index.html"
+        },
+        
+        {
+            "title": "Stash",
+            "area": "platforms",
+            "status": "standard",
+            "link": "https://stash.int.corp.sun"
+        },
+        
+        {
+            "title": "CSS3",
+            "area": "platforms",
+            "status": "standard",
+            "link": "http://www.w3schools.com/css/css3_intro.asp"
+        },
+        
+        {
+            "title": "Sonar",
+            "area": "platforms",
+            "status": "standard",
+            "link": "http://sonar/sonar/"
+        },
+        
+        {
+            "title": "HTML5",
+            "area": "platforms",
+            "status": "standard",
+            "link": "https://www.w3.org/TR/html5/"
+        },
+        
+        {
+            "title": "Atom",
+            "area": "platforms",
+            "status": "standard",
+            "link": "https://atom.io/"
+        },
+        
+        {
+            "title": "AWS",
+            "area": "platforms",
+            "status": "standard",
+            "link": "https://aws/"
+        },
+        
+        {
+            "title": "SpringBoot",
+            "area": "platforms",
+            "status": "future",
+            "link": "http://springboot.io/"
+        },
+        
+        {
+            "title": "Fortify 360 (Jenkins)",
+            "area": "platforms",
+            "status": "future",
+            "link": "https://wiki.jenkins-ci.org/display/JENKINS/Fortify+360+Plugin"
+        },
+        
+        {
+            "title": "Websphere Applications",
+            "area": "platforms",
+            "status": "deprecate",
+            "link": "http://"
+        },
+        
+        {
+            "title": "Firescope",
+            "area": "platforms",
+            "status": "deprecate",
+            "link": "http://firescope/login.php?indexRedirect=1"
+        },
+        
+        {
+            "title": "Nice Health",
+            "area": "platforms",
+            "status": "deprecate",
+            "link": "http://"
+        },
+        
+        {
+            "title": "Radar/WFP",
+            "area": "platforms",
+            "status": "deprecate",
+            "link": "http://"
         }
-        
-        
-        
 
     ]
 }
